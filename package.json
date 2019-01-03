@@ -1,0 +1,24 @@
+{
+  "name": "Example-music-bot",
+  "version": "1.0.0",
+  "description": "an example music bot using my \"api\"",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node bot.js"
+  },
+  "author": "NekoboyTM",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-binaries": "^4.0.0",
+    "fs": "^0.0.2"
+    "ms": "^2.1.1",
+    "opusscript": "0.0.6",
+    "pm2": "^3.2.4",
+    "simple-youtube-api": "^5.0.2",
+    "sqlite": "^2.9.2",
+    "ytdl-core": "^0.24.0"
+  }
+}
